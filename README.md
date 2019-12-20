@@ -2,6 +2,8 @@
 Speed up Satellite fix for GPS on Android
 Hello guys!I have heard lof of us face gps issues with  Android  so i have found a way to fix this issue easily just follow the steps carefully
 
+This trick not only to speedup the satelite fixing. Some also found that it increase the reception (strong signal even during cloudy, light raining, and inside building's window). I am one of this case .
+
 Requirements:
 
 Rooted Device
@@ -28,9 +30,11 @@ C.use GPS status to start fixing satellites
 
 5.reboot the device
 
-6.use an app called gps locker(available in playstore)  to lock satellites and make a proper connection
+6.use an app called gps locker(available in playstore)  to lock satellites and make a proper connection if you face any issue
 
 7.your gps must work now
 
 Important Note:
 After you lock your gps with the satellites if you wish to move from one area to other then use the gps locker app again to lock with the satellites again to make a proper working of gps
+
+Thanks to http://www.pool.ntp.org/en/ for providing the ntp servers.
