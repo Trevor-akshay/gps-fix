@@ -1,4 +1,4 @@
-# gps-fix
+# Global Positioning System Fix
 Speed up Satellite fix for GPS on Android
 
 Hello guys! I have heard lot of us face gps issues with  Android  and for this I have found a way to fix this issue easily just follow the steps carefully
