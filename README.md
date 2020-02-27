@@ -6,35 +6,30 @@ This trick not only to speedup the satelite fixing. Some also found that it incr
 
 Requirements:
 
-Rooted Device
-
-File Manager(solid explorer or miXplorer)
+1.Rooted Device
+2.Twrp revovery
+3.Patience to read
 
 Steps:
+  1.download the file given
 
-I have modified the gps.config file to lock up much faster and also to update with movement in real time
+  2.flash the downloaded file in twrp recovery or any other recovery to wish to use!
 
-1.download the modified gps.config and copy to your vendor/etc and paste it
+  3.Use the app gps status and toolbox and follow the steps
 
-2.Make sure the permission of the file is     *rw-r--r--
+      A.Open app> tools> manage A-GPS state>Reset
 
-3.reboot the device
+      B.Open app> tools> manage A-GPS state>Download
 
-4.Use the app gps status and toolbox provided and follow the steps
+      C.use GPS status to start fixing satellites
 
-A.Open app> tools> manage A-GPS state>Reset
+  4.reboot the device
 
-B.Open app> tools> manage A-GPS state>Download
+  5.use an app called gps locker from playstore to lock satellites and make a proper connection
 
-C.use GPS status to start fixing satellites
+  6.voila!!! 
+  
+                             😁 GPS is fixed for your DROID!😁
 
-5.reboot the device
-
-6.use an app called gps locker(available in playstore)  to lock satellites and make a proper connection if you face any issue
-
-7.your gps must work now
-
-Important Note:
-After you lock your gps with the satellites if you wish to move from one area to other then use the gps locker app again to lock with the satellites again to make a proper working of gps
 
 Thanks to http://www.pool.ntp.org/en/ for providing the ntp servers.
