@@ -4,13 +4,17 @@ Hello guys!I have heard lof of us face gps issues with  Android  so i have found
 
 This trick not only to speedup the satelite fixing. Some also found that it increase the reception (strong signal even during cloudy, light raining, and inside building's window). I am one of this case .
 
-Requirements:
+    Requirements:
 
-1.Rooted Device
-2.Twrp revovery
-3.Patience to read
+      1.Rooted Device
+  
+      2.Twrp revovery
+  
+      3.Patience to read
+  
 
 Steps:
+ 
   1.download the file given
 
   2.flash the downloaded file in twrp recovery or any other recovery to wish to use!
@@ -29,7 +33,11 @@ Steps:
 
   6.voila!!! 
   
-                             😁 GPS is fixed for your DROID!😁
+
+
+                          😁 GPS is fixed for your DROID!😁
+
+
 
 
 Thanks to http://www.pool.ntp.org/en/ for providing the ntp servers.
