@@ -3,7 +3,7 @@ Speed up Satellite fix for GPS on Android
 
 Hello guys! I have heard lot of us face gps issues with  Android  and for this I have found a way to fix this issue easily just follow the steps carefully
 
-This trick is not only to speedup the satelite fixing. Some also found that it increase the reception (strong signal even during cloudy, light raining, and inside building's window). I am one of this case .
+This trick is not only to speedup the satelite fixing. Some also found that it increase the reception (strong signal even during cloudy, drizzling, and inside building's window). I am one of this case .
 
     Requirements:
 
