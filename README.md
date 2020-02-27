@@ -1,6 +1,7 @@
 # gps-fix
 Speed up Satellite fix for GPS on Android
-Hello guys!I have heard lof of us face gps issues with  Android  so i have found a way to fix this issue easily just follow the steps carefully
+
+Hello guys!I have heard lot of us face gps issues with  Android  so i have found a way to fix this issue easily just follow the steps carefully
 
 This trick not only to speedup the satelite fixing. Some also found that it increase the reception (strong signal even during cloudy, light raining, and inside building's window). I am one of this case .
 
@@ -35,7 +36,7 @@ Steps:
   
 
 
-                          😁 GPS is fixed for your DROID!😁
+           😁 GPS is fixed for your DROID!😁
 
 
 
