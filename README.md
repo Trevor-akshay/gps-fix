@@ -9,7 +9,7 @@ This trick is not only to speedup the satelite fixing. Some also found that it i
 
       1.Rooted Device
   
-      2.Twrp revovery
+      2.Magisk manager
   
       3.Patience to read
   
@@ -18,9 +18,11 @@ Steps:
  
   1.download the file given
 
-  2.flash the downloaded file in twrp recovery or any other recovery to wish to use!
-
-  3.Use the app gps status and toolbox and follow the steps
+  2.flash the downloaded file in magisk manager!
+  
+  3.reboot the device
+  
+  4.Use the app gps status and toolbox and follow the steps
 
       A.Open app> tools> manage A-GPS state>Reset
 
@@ -28,15 +30,15 @@ Steps:
 
       C.use GPS status to start fixing satellites
 
-  4.reboot the device
+  5.reboot the device
 
-  5.use an app called gps locker from playstore to lock satellites and make a proper connection
+  6.use an app called gps locker from playstore to lock satellites and make a proper connection
 
-  6.voila!!! 
+  7.voila!!! 
   
 
 
-           😁 GPS is fixed for your DROID!😁
+                          😁 GPS is fixed for your DROID!😁
 
 
 
