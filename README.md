@@ -7,11 +7,9 @@ This trick is not only to speedup the satelite fixing. Some also found that it i
 
     Requirements:
 
-      1.Rooted Device
+     1.Twrp revovery
   
-      2.Twrp revovery
-  
-      3.Patience to read
+     2.Patience to read
   
 
 Steps:
@@ -36,7 +34,7 @@ Steps:
   
 
 
-           😁 GPS is fixed for your DROID!😁
+                  😁 GPS is fixed for your DROID!😁
 
 
 
